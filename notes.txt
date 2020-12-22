@@ -1,0 +1,20 @@
+#Forum Project Execution Steps:
+
+1. Ensure your anti-virus is dormant on and before presentation
+	Reason: it will delete the server file.
+
+2. Start the wamp server by double clicking it on the desktop
+
+3. open git bash or terminal and navigate to the root folder of the project
+	i.e : search git bash 
+		  type: cd /
+		  type: cd c:/wamp64/www/forum
+		  type: php artisan serve 
+
+		  <!-- do not close the terminal throughout the project -->
+
+4. the above commands will start the server.
+	
+	open the browser and type 127.0.0.1:8000 or localhost:8000 to access the project
+
+#------------------------ YOU HAVE THE BEST SHOW THEM ------------------------------#
